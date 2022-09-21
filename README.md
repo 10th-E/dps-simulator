@@ -1,3 +1,4 @@
 # DPS Simulator
 DPS Srinagar Simulator
-<h1>WIP (me when i literally did nothing other than creating a scene)</h1>
+<h1>ABANDONED</h1>
+Might continue some day
